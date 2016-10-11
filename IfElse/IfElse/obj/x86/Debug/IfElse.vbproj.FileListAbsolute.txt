@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\Application.g.vb
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\IfElse_MarkupCompile.cache
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\IfElse.g.resources
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\IfElse.Resources.resources
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\IfElse.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Viray\IfElse\IfElse\bin\Debug\IfElse.exe
+C:\Users\Student\Documents\Viray\IfElse\IfElse\bin\Debug\IfElse.pdb
+C:\Users\Student\Documents\Viray\IfElse\IfElse\bin\Debug\IfElse.xml
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\IfElse.exe
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\IfElse.xml
+C:\Users\Student\Documents\Viray\IfElse\IfElse\obj\x86\Debug\IfElse.pdb

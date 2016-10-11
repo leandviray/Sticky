@@ -1,0 +1,15 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Height="23" Margin="67,12,12,0" Name="TxtInput1" VerticalAlignment="Top" />
+        <TextBox Height="23" Margin="67,41,12,0" Name="TxtInput2" VerticalAlignment="Top" />
+        <CheckBox Content="In Numeric" Height="16" HorizontalAlignment="Left" Margin="71,70,0,0" Name="CheckNumeric" VerticalAlignment="Top" />
+        <TextBox Height="151" Margin="67,92,12,0" Name="txtOutput" VerticalAlignment="Top" />
+        <Button Content="Go" Height="23" HorizontalAlignment="Left" Margin="67,276,0,0" Name="Btn1Go" VerticalAlignment="Top" Width="75" />
+        <Button Content="Clear" Height="23" HorizontalAlignment="Left" Margin="148,276,0,0" Name="Btn2Clear" VerticalAlignment="Top" Width="75" />
+        <Label Content="Value 1" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="Label1" VerticalAlignment="Top" Width="49" />
+        <Label Content="Value 2" Height="28" HorizontalAlignment="Left" Margin="12,36,0,0" Name="Label2" VerticalAlignment="Top" Width="49" />
+    </Grid>
+</Window>
